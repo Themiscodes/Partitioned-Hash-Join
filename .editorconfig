@@ -1,0 +1,8 @@
+[*.py]
+indent_style = tab
+indent_size = 4
+
+
+[{**Makefile,common.mk}]
+indent_style = tab
+indent_size = 4
