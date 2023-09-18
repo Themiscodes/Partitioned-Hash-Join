@@ -2,7 +2,7 @@
 
 This repository contains a multi-threaded implementation of the partitioned hash join algorithm, specifically designed for a columnar database, written in C. In light of advancements in modern computer hardware, our objective is to create a subset of a database that efficiently manages data entirely in memory.
 
-To ensure robustness, a comprehensive test suite is provided, and the performance is evaluated against the harness used in the SIGMOD 2018 Programming Contest. This was a team project completed in collaboration with [Yiannis Zervakis](https://github.com/johnzerv/) and [George Sittas](https://github.com/GeorgeSittas/).
+To ensure robustness, a comprehensive test suite is provided, and the performance is evaluated against the harness used in the SIGMOD 2018 Programming Contest. This was a team project completed in collaboration with [Yannis Zervakis](https://github.com/johnzerv/) and [George Sittas](https://github.com/GeorgeSittas/).
 
 ## Implementation
 
